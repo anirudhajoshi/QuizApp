@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <!-- Header Question & Answer Text -->
+    <string name="Question1Header">Question 1</string>
+    <string name="Question2Header">Question 2</string>
+    <string name="Question3Header">Question 3</string>
+    <string name="Question4Header">Question 4</string>
+    <string name="Question5Header">Question 5</string>
+    <string name="AnswersHeader_RadioButtonQuestion">Please your answer by tapping on your selection</string>
+    <string name="AnswersHeader_CheckboxQuestion">Please answer by checking your selections</string>
+    <string name="AnswersHeader_EditTextQuestion">Please type your answer</string>
+    <string name="SubmitHeader">Please click button to submit your answer</string>
+    <string name="InfoHeader">This is a quiz for kids. There are 5 questions. Please answer each question. You can scroll down and click the submit button once you have answered all questions. Press the Play Again button to reset your score and play again.</string>
+
+    <!-- Radio Button question -->
+    <string name="Question1">Who painted the Mona Lisa?</string>
+    <string name="Answer1A">Lenoardo da Vinci</string>
+    <string name="Answer1B">Sandro Botticcelli</string>
+    <string name="Answer1C">Pietro Perugino</string>
+
+    <!-- Radio Button question -->
+    <string name="Question2">Who is the druid in the Asterix books?</string>
+    <string name="Answer2A">Cacofonix</string>
+    <string name="Answer2B">Obelix</string>
+    <string name="Answer2C">Getafix</string>
+
+    <!-- Free text question -->
+    <string name="Question3">Who took elephants across the Alps?</string>
+    <string name="Question3Hint">Enter your answer here</string>
+    <string name="Answer3">hannibal</string>
+
+    <!-- Checkbox question -->
+    <string name="Question4">What is the square root of 9?</string>
+    <string name="Answer4A1A">+9</string>
+    <string name="Answer4A1B">-9</string>
+    <string name="Answer4A2A">+3</string>
+    <string name="Answer4A2B">-3</string>
+    <string name="Answer4A3A">+5</string>
+    <string name="Answer4A3B">-5</string>
+
+    <string name="Question5">Who has a dog called Snowy and is friends with Captain Haddock?</string>
+    <string name="Answer5A">Thomson</string>
+    <string name="Answer5B">Snowy</string>
+    <string name="Answer5C">Thompson</string>
+
+    <!-- Submit button -->
+    <string name="Submit">Submit Answers</string>
+
+    <!-- Submit button toast -->
+    <string name="ToastMessage1">"You answered "</string>
+    <string name="ToastMessage2">" of 5 questions correctly"</string>
+
+    <!-- Reset button toast -->
+    <string name="PlayAgainToast">All answers have been cleared. You can play again.</string>
+
+</resources>
